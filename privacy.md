@@ -21,4 +21,4 @@ The App may request permissions to access:
 
 ## 5. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-**[请在这里填入你的电子邮箱]**
+**akk911709@gmail.com**
