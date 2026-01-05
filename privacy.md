@@ -30,22 +30,44 @@ To protect your privacy, the following data is processed and stored **exclusivel
 * **Advertising Data (AdMob):** For non-VIP users, Google AdMob collects interaction data to display ads.
 
 ## 3. How We Use Your Information
+We use the collected data for the following purposes:
 1.  **Service Provision:** To sync your VIP status across devices (Cloud) and manage your local download tasks (Local).
 2.  **Monetization (AdMob):** To display advertisements to free users. **VIP users are exempt from ad targeting.**
 3.  **Privacy by Design:** We intentionally architected the App so that your detailed usage habits remain on your device. We cannot see what you are downloading.
+4.  **Functionality:** To enable optional motion-based features via device sensors.
 
 ## 4. Third-Party Services
 We employ third-party companies to facilitate our Service:
-* **Google Firebase:** User authentication and minimal state sync.
-* **RevenueCat:** Subscription validation.
+* **Google Firebase (Auth, Firestore & Analytics):** User authentication and minimal state sync.
+* **RevenueCat:** Subscription validation and management.
 * **Google AdMob:** Advertising network (Free users only).
 * **Google UMP:** Privacy consent management.
 
 ## 5. Permissions
-* **Internet Access:** Required to download files.
-* **Storage / Photos:** Required to save files to your device.
-* **Sensors (iOS Motion Usage):** Required for the optional "Shake-to-Ad" feature (`NSMotionUsageDescription`).
+The App requests the following permissions to function:
+* **Internet Access:** Required to browse the web and download files.
+* **Storage / Photos:** Required to save downloaded files to your device's public storage.
+* **Sensors (iOS Motion Usage):** Required for the optional "Shake-to-Ad" feature (`NSMotionUsageDescription`). This permission is not used for background tracking.
 
 ## 6. Data Security
 * **Encryption:** All cloud data transmission uses **HTTPS encryption**.
-* **Local Isolation
+* **Local Isolation:** Since sensitive usage data (like download history) is stored locally, it is protected by your device's operating system security (Sandbox).
+* **International Transfer:** Your account information (User ID and Membership Status) may be transferred to and maintained on servers located outside of your country (e.g., US or Singapore). We ensure all transfers comply with applicable laws.
+
+## 7. Data Retention and Deletion
+* **Cloud Account:** Account info (Email/UID) is retained as long as your account is active. You may request deletion by contacting us.
+* **App Private Data:** Data stored in the App's private directory (e.g., Download History database, Settings) **is automatically deleted by the Operating System** when you uninstall the App.
+* **Public Media Files:** Media files (videos, images) that you have downloaded and saved to public directories (e.g., System Gallery, /Downloads folder) **are NOT deleted** by uninstalling the App. You maintain full ownership and control over these files and must delete them manually via your device's file manager.
+
+## 8. GDPR & CCPA Compliance
+* **Right to Erasure:** You can request us to delete your cloud account. Local data is already under your full control.
+* **Ad Consent:** We use Google UMP to collect consent for ad personalization where required.
+* **Opt-Out:** Users can manage their ad preferences via the App settings.
+
+## 9. Children's Privacy
+The App is not intended for use by children under the age of **14**. We do not knowingly collect personally identifiable information from children under this age. If we discover such data has been collected, we will delete it immediately.
+
+## 10. Contact Us
+If you have any questions about this Privacy Policy or wish to request account deletion, please contact us at:
+
+**Email: akk911709@gmail.com**
