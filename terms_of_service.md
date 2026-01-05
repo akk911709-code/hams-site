@@ -49,4 +49,35 @@ You agree strictly **NOT** to use the App to:
 
 * Violate any applicable national or international laws or regulations.
 * Access, download, store, or distribute illegal content, including but not limited to **Child Sexual Abuse Material (CSAM)**, terrorism propaganda, extreme violence, or hate speech.
-* Infringe upon the intellectual property rights
+* Infringe upon the intellectual property rights of others (e.g., unauthorized downloading of copyrighted movies, music, or software).
+* Attempt to reverse engineer, decompile, disassemble, or hack the App.
+
+## 7. Intellectual Property & DMCA Compliance
+We respect the intellectual property rights of others. Since the App functions as a browser, we have no control over third-party websites or servers.
+
+* **Copyright Claims:** If you are a copyright owner and believe your rights are being infringed via our App, please understand that we cannot delete content from the internet as we do not host it.
+* **Reporting:** To report a specific legal issue regarding the App's functionality, please contact us at: **akk911709@gmail.com**.
+
+## 8. Service Availability
+We reserve the right to modify, suspend, or discontinue any service features at any time without prior notice to ensure the app's stability and compliance. This includes adjustments to:
+* Download mechanics and reset logic.
+* Supported file formats and resolutions.
+* Third-party service integrations.
+
+## 9. Disclaimer of Warranties
+**THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.**
+
+## 10. Limitation of Liability
+**IN NO EVENT SHALL WE BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF THE APP.**
+
+## 11. International Users
+The App is controlled and operated from our facilities. Although the App is accessible worldwide, we make no representation that all features are appropriate or available for use in all locations. Users who access the App from outside China do so at their own initiative and are responsible for compliance with local laws.
+
+## 12. Governing Law and Dispute Resolution
+* **Governing Law:** These Terms shall be governed by and construed in accordance with the laws of the **People's Republic of China**.
+* **Jurisdiction:** Any dispute, controversy, or claim arising out of or relating to these Terms shall be submitted to the competent people's court in **Shanghai, China**.
+
+## 13. Contact Us
+If you have any questions about these Terms, please contact us at:
+
+**Email: akk911709@gmail.com**
