@@ -3,7 +3,7 @@
 **Effective Date:** January 5, 2026
 
 ## 1. Introduction
-Thank you for using **Hams** ("the App"), developed by **akk** ("we," "us," or "our"). We are committed to protecting your personal data and respecting your privacy.
+Thank you for using **Hams** ("the App"), developed by **AKK** ("we," "us," or "our"). We are committed to protecting your personal data and respecting your privacy.
 
 This Privacy Policy explains how we collect, use, and safeguard your information. **We prioritize local storage and advanced security mechanisms to ensure maximum privacy.**
 
@@ -25,9 +25,10 @@ To protect your privacy, the following data is processed and stored **exclusivel
 * **Cached Files:** Thumbnails, icons, and temporary media files.
 * **Temporary Session Data:** Short-term data such as recent URL entries or back-forward navigation lists.
 
-### 2.3 Information Collected Automatically (Ephemeral)
+### 2.3 Information Collected Automatically (Ephemeral & Diagnostics)
 * **Device Sensors (iOS/Android):** We access motion sensors **only** when you use the "Shake-to-Ad" feature. Data is processed in real-time and not saved.
 * **Advertising Data (AdMob):** For non-VIP users, Google AdMob collects interaction data to display ads.
+* **Crash Logs (Crashlytics):** We collect anonymized crash reports and performance data to help us fix bugs and improve App stability.
 
 ## 3. How We Use Your Information
 We use the collected data for the following purposes:
@@ -37,10 +38,12 @@ We use the collected data for the following purposes:
     * We adopt a decentralized architecture. Core video processing (such as transcoding via local FFmpeg) is performed entirely on your local device.
     * **We never upload your media content to any cloud server**, physically eliminating the risk of data leakage.
 4.  **Functionality:** To enable optional motion-based features via device sensors.
+5.  **Stability:** To monitor App health and fix crashes.
 
 ## 4. Third-Party Services
 We employ third-party companies to facilitate our Service:
 * **Google Firebase (Auth, Firestore & Analytics):** User authentication and minimal state sync.
+* **Google Firebase Crashlytics:** Collects anonymized crash logs and diagnostics to help us improve App stability.
 * **RevenueCat:** Subscription validation and management.
 * **Google AdMob:** Advertising network (Free users only).
 * **Google UMP:** Privacy consent management.
